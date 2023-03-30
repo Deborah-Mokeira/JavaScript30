@@ -1,14 +1,14 @@
 # JavaScript30
 
 
-Drum Kit
+Drum Kit:
 This project is a simple drum kit application built using HTML, CSS, and JavaScript. It allows users to play different drum sounds by pressing corresponding keys on their keyboard.
 Tutorial: Wesbos/JavaScript 30.
 
 Key Takeaways:JavaScript key events, Audio, Listening to transitionend event
 
 
-Features
+Features:
 Press the corresponding keys on your keyboard to play drum sounds-Each key press triggers an animation on the corresponding drum pad-The application is responsive and works on different screen sizes
 
 Technologies Used:HTML,CSS & JavaScript
