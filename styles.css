@@ -1,0 +1,68 @@
+/* This is a CSS code to style an HTML drum kit page.*/
+
+/*Set the base font size and background image */
+
+html {
+font-size: 10px;
+background: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/074/233/original/drumkit.png?1680188128") bottom center;
+background-size: cover;
+}
+
+/* Remove default margins and paddings and set the font family */
+body, html {
+margin: 0;
+padding: 0;
+font-family: sans-serif;
+}
+
+/* Style for the h1 heading */
+h1 {
+text-align: center;
+font-size: 48px;
+color: #700999;
+}
+
+/* Style for the container of the drum kit keys */
+.keys {
+display: flex;
+flex: 1;
+min-height: 100vh;
+align-items: center;
+justify-content: center;
+}
+
+/* Style for each individual drum kit key */
+.key {
+border: .3rem solid #dd15dd;
+border-radius: .5rem;
+margin: 1rem;
+font-size: 1.5rem;
+padding: 1rem .5rem;
+transition: all .07s ease;
+width: 10rem;
+text-align: center;
+color: white;
+background: rgba(0,0,0,0.3);
+text-shadow: 0 0 .5rem black;
+}
+
+/* Style for when a drum kit key is played */
+.playing {
+transform: scale(1.1);
+border-color: #b700ff;
+box-shadow: 0 0 1rem #ff00f2;
+}
+
+/* Style for the keyboard input display */
+kbd {
+display: block;
+font-size: 4rem;
+}
+
+/* Style for the sound label */
+.sound {
+font-size: 1.5rem;
+text-transform: uppercase;
+letter-spacing: .1rem;
+color: #26e420;
+}
