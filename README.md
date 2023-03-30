@@ -6,9 +6,7 @@ This project is a simple drum kit application built using HTML, CSS, and JavaScr
 Tutorial: Wesbos/JavaScript 30.
 
 Key Takeaways:
-JavaScript key events
-Audio
-Listening to transitionend event
+JavaScript key events, Audio, Listening to transitionend event
 
 
 Features
