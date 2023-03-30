@@ -13,8 +13,8 @@ Features
 Press the corresponding keys on your keyboard to play drum sounds
 Each key press triggers an animation on the corresponding drum pad
 The application is responsive and works on different screen sizes
-Technologies Used:
 
+Technologies Used:
 HTML
 CSS
 JavaScript
@@ -32,8 +32,7 @@ To play a drum sound, simply press the corresponding key on your keyboard. The d
 Contributing
 Contributions to the project are welcome. Here are some ways you can contribute:
 
-Report a bug by opening an issue
-Fix a bug by submitting a pull request
+Report a bug by opening an issue: Fix a bug by submitting a pull request
 Add a new feature by submitting a pull request
 Improve the documentation
 
