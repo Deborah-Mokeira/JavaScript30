@@ -21,3 +21,4 @@ Contributing--Contributions to the project are welcome. Here are some ways you c
 
 Report a bug by opening an issue: Fix a bug by submitting a pull request-Add a new feature by submitting a pull request-Improve the documentation
 
+Special thanks to @Wes Bos30.
