@@ -72,12 +72,12 @@ color: #32f82b;
   html{
     font-size: 8px;
     background-size:contain;
-    background-repeat: no-repeat;
-    
+    background-repeat: no-repeat; 
   }
   h1{
     font-size: 32px;
   }
+  
   .keys{
     flex-direction: column;
   }
