@@ -1,4 +1,4 @@
-#Drum Kit:
+# Drum Kit
 
 This project is a simple drum kit application built using HTML, CSS, and JavaScript. It allows users to play different drum sounds by pressing corresponding keys on their keyboard.
 
